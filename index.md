@@ -19,6 +19,8 @@ __Compétences__
 __Contact__
 
 Profil Crème de la Crème : https://cremedelacreme.io/dorine.gonthier
-Email : dorine.gonthier@grenoble-em.com
+
+dorine.gonthier@grenoble-em.com
+
 +33 6 72 76 00 50
 
