@@ -1,11 +1,7 @@
-![Image](src)
 
-![Gonthier Dorine] (C:\Users\Solène\Documents\Documents\photo pro)
+![Image](https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAZWAAAAJDc1MTk4ODc4LWZhNmQtNDM4NC04MDAxLTU1YjEwZGZkNTg2Ng.jpg)
 
-As Kanye West said:
 
-> We're living the future so
-> the present is our past.
 
 __Présentation__
 
@@ -26,5 +22,3 @@ Profil Crème de la Crème : https://cremedelacreme.io/dorine.gonthier
 Email : dorine.gonthier@grenoble-em.com
 +33 6 72 76 00 50
 
-
-You can use the [editor on GitHub](https://github.com/Etoly/gonthier/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
